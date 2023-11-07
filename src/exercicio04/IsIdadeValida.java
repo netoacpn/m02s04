@@ -2,7 +2,7 @@ package exercicio04;
 
 import java.util.Scanner;
 
-public class Main {
+public class IsIdadeValida {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
